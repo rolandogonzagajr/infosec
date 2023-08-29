@@ -1,1 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#homepage,
+#servicespage,
+#contact {
+  display: flex;
+  justify-content: right;
+  text-align: justify;
+  color: #436cbd;
+  font-family: "Lucida Console", "Courier New", monospace;
+  line-height: 1.4;
+  background-color: #ffffff;
+  font-weight: 400;
+  background-color: rgb(240, 247, 250);
+}
+
+#order {
+  background-color: rgb(240, 247, 250);
+  color: #436cbd;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#testimonials {
+  background-color: rgb(240, 247, 250);
+  color: #436cbd;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: justify;
+}
 
