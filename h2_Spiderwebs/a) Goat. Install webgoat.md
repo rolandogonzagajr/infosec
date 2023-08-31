@@ -37,4 +37,12 @@ then screenshot below ehen succesful
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.webgoat.png">
 
+then open Open WebGoat in browser
+http://localhost:8080/WebGoat/
+
+then follow the registration process after which youre ready to hack.
+
+screenshor below inside Webgoat
+
+ <img src="">
 
