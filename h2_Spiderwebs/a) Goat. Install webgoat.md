@@ -5,35 +5,35 @@ I installed WebGoat on VirtualBox running macOS, and I these are the steps I fol
 ## Step 1: Installing Java and Useful Tools
 First, open the terminal and make sure everything is up to date by running:
 
-sudo apt-get update
+ sudo apt-get update
 
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Update.png">
 
 
 Then, install Java and some helpful tools with:
 
-sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
+ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
 
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.2.png">
 
 ## Step 2: Enabling the Firewall
 Enhance security by enabling the firewall using:
 
-wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
+ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Firewall.png">
 
 ## Step 3: Downloading WebGoat
 Download the WebGoat application using the wget command:
 
-wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
+ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Install.png">
 
 ## Step 4: Running WebGoat
 Start WebGoat by executing:
 
-java -jar webgoat-server-8.0.0.M26.jar
+ java -jar webgoat-server-8.0.0.M26.jar
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.webgoat.png">
 
