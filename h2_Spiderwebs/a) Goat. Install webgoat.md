@@ -44,5 +44,5 @@ then follow the registration process after which youre ready to hack.
 
 screenshor below inside Webgoat
 
- <img src="">
+ <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.WebgoatPage.png">
 
