@@ -1,48 +1,45 @@
-# STEPS in Webgoat Installation in VirtualBox ( MAC OS )
+# WebGoat Installation on VirtualBox (macOS)
 
-1. Install Java (and some helpful tools) by typing the following in the terminal:
+I installed WebGoat on VirtualBox running macOS, and I these are the steps I followed. Here's how it went:
 
-$ sudo apt-get update
+## Step 1: Installing Java and Useful Tools
+First, open the terminal and make sure everything is up to date by running:
 
-Then will look like  screenshot below after. 
+sudo apt-get update
+
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Update.png">
 
-then type the following on the terminal
 
-$ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
+Then, install Java and some helpful tools with:
 
-then will look like the below screenshot after.
+sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
+
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.2.png">
 
-Then enable firewall by typing the following:
+## Step 2: Enabling the Firewall
+Enhance security by enabling the firewall using:
 
-$ sudo ufw enable
- screenshot looks like this after
+wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Firewall.png">
- 
-then Install by typing the below in the terminal
 
-$ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
+## Step 3: Downloading WebGoat
+Download the WebGoat application using the wget command:
 
-scrreenshot below shows after
+wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Install.png">
 
+## Step 4: Running WebGoat
+Start WebGoat by executing:
 
-then run by typing the below
+java -jar webgoat-server-8.0.0.M26.jar
 
-$ java -jar webgoat-server-8.0.0.M26.jar
-then screenshot below ehen succesful
+## Step 5: Accessing WebGoat
+With WebGoat running, open your web browser and go to http://localhost:8080/WebGoat/. Follow the registration process to set things up.
+
+And that's it! You're all set up with WebGoat for some practice.
 
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.webgoat.png">
 
-then open Open WebGoat in browser
-http://localhost:8080/WebGoat/
-
-then follow the registration process after which youre ready to hack.
-
-screenshor below inside Webgoat
-
- <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.WebgoatPage.png">
 
