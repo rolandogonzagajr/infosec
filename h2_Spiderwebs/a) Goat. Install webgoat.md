@@ -12,18 +12,29 @@ then type the following on the terminal
 $ sudo apt-get -y install openjdk-17-jre ufw wget bash-completion
 
 then will look like the below screenshot after.
-<img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Update.png">
+<img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.2.png">
 
-This command works with Debian 12-Bookworm. If you run an older system, you might need an older version of OpenJDK Java. For example, Debian 11 Bullseye has "openjdk-11-jre". Webgoat version 8 used in this article works with both Java versions.
-
-Enable firewall.
+Then enable firewall by typing the following:
 
 $ sudo ufw enable
-Install and Run WebGoat
-Download and run Webgoat 8:
+ screenshot looks like this after
+
+ <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Firewall.png">
+ 
+then Install by typing the below in the terminal
 
 $ wget https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/webgoat-server-8.0.0.M26.jar
-$ java -jar webgoat-server-8.0.0.M26.jar
 
-<img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Update.png">
+scrreenshot below shows after
+
+ <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.Install.png">
+
+
+then run by typing the below
+
+$ java -jar webgoat-server-8.0.0.M26.jar
+then screenshot below ehen succesful
+
+ <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.webgoat.png">
+
 
