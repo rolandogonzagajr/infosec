@@ -1,4 +1,4 @@
-# WebGoat Installation on VirtualBox (macOS)
+# Webgoat Installation on VirtualBox (macOS)
 
 I installed WebGoat on VirtualBox running macOS, and I these are the steps I followed. Here's how it went:
 
