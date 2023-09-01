@@ -6,12 +6,15 @@ Misconfigurations can lead to a variety of attacks, including data breaches, acc
 
 To prevent misconfigurations, organizations should implement secure installation processes, such as:
 
-Using a repeatable hardening process to ensure that applications are configured securely each time they are deployed. 
-Deploying minimal platforms that only include the necessary components and features. 
-Regularly reviewing and updating configurations to address new vulnerabilities and patches. 
-Segmenting application architecture to isolate different components and tenants. 
-Sending security directives to clients to help protect sensitive data. 
-Automating the verification of configurations to ensure that they are always up-to-date and secure. 
+Using a repeatable hardening process to ensure that applications are configured securely each time they are deployed.  
+
+Deploying minimal platforms that only include the necessary components and features.  
+
+Regularly reviewing and updating configurations to address new vulnerabilities and patches.  
+
+Segmenting application architecture to isolate different components and tenants.  
+Sending security directives to clients to help protect sensitive data.  
+Automating the verification of configurations to ensure that they are always up-to-date and secure.   
 
 
 # A06:2021-Vulnerable and Outdated Components
