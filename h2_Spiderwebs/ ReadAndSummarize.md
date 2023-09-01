@@ -5,6 +5,7 @@ Misconfigurations are common in applications, with 90% of tested apps having som
 Misconfigurations can lead to a variety of attacks, including data breaches, account takeovers, and denial-of-service attacks.
 
 To prevent misconfigurations, organizations should implement secure installation processes, such as:
+
 Using a repeatable hardening process to ensure that applications are configured securely each time they are deployed.   
 Deploying minimal platforms that only include the necessary components and features.   
 Regularly reviewing and updating configurations to address new vulnerabilities and patches.   
@@ -20,12 +21,12 @@ Vulnerable and outdated components are a major security risk, as they can be exp
 Organizations should implement a patch management process to identify and fix vulnerabilities in components as soon as possible.
 This process should include:
 
-Removing unused dependencies, features, files, and documentation.
-Continuously inventorying versions using tools like OWASP Dependency Check, retire.js, etc.
-Monitoring CVE and NVD for vulnerabilities in components.
-Obtaining components only from official, secure sources.
-Monitoring for unmaintained components, and considering virtual patches.
-Ensuring ongoing monitoring, triaging, and updates throughout the application's lifetime.
+Removing unused dependencies, features, files, and documentation.  
+Continuously inventorying versions using tools like OWASP Dependency Check, retire.js, etc.  
+Monitoring CVE and NVD for vulnerabilities in components.  
+Obtaining components only from official, secure sources.  
+Monitoring for unmaintained components, and considering virtual patches.  
+Ensuring ongoing monitoring, triaging, and updates throughout the application's lifetime.  
 
 
 # A03:2021-Injection
@@ -36,9 +37,9 @@ Organizations should also use static, dynamic, and interactive security testing 
 
 Here are some additional tips for preventing injection attacks:
 
-Use a safe API or ORM framework to help prevent injection attacks.
-Implement input validation at the application layer.
-Use regular expressions to escape special characters in user input.
-Limit the amount of data that is returned from queries.
-Use security testing tools to identify and fix injection vulnerabilities.
+Use a safe API or ORM framework to help prevent injection attacks.  
+Implement input validation at the application layer.  
+Use regular expressions to escape special characters in user input.  
+Limit the amount of data that is returned from queries.  
+Use security testing tools to identify and fix injection vulnerabilities.  
 
