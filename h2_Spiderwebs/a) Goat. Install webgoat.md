@@ -38,9 +38,9 @@ Start WebGoat by executing:
  <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.webgoat.png">
 
 ## Step 5: Accessing WebGoat
-With WebGoat running, open your web browser and go to http://localhost:8080/WebGoat/. Follow the registration process to set things up.
+With WebGoat running, open the web browser and go to http://localhost:8080/WebGoat/. Follow the registration process to set things up.
 
-And that's it! You're all set up with WebGoat for some practice.
+And that's it! Its all set up with WebGoat for some practice.
 
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.WebgoatPage.png">
 
