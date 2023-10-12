@@ -44,3 +44,5 @@ And that's it! Its all set up with WebGoat for some practice.
 
 <img src="https://github.com/rolandogonzagajr/infosec/blob/main/Screenshots/Screenshot.WebgoatPage.png">
 
+### Source: Karvinen, T. (2020). Install WebGoat - Web Pentest Practice Target. Available at: https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/. Accessed: 12 October 2023.
+
