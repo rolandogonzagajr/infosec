@@ -46,3 +46,5 @@ Trick them into doing things that don't help them.
 Remove their tools.
 
 #### This breakdown of the intrusion kill chain is a fantastic way to simplify a complex topic like cybersecurity. Understanding how attackers work and the stages they follow helps us develop smarter defense strategies. What steps do you think are the most critical for defenders to focus on?
+
+### Sources: Lockheed Martin. Intel-Driven Defense: White Paper. Available at: https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf. Accessed: 12 October 2023
