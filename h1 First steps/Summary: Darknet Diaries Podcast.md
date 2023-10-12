@@ -23,4 +23,5 @@ Sophisticated attacks often combine digital and physical methods. By gaining phy
 The story emphasizes the importance of training and raising awareness among employees about security risks, both digital and physical. This training helps individuals recognize and respond effectively to potential threats.
 
 ### In our modern world, how can organizations find the right balance between investing in digital and physical security to defend against evolving threats? Also, sharing real-world stories can raise awareness among employees, making them more vigilant. It's interesting to see how connecting digital and physical security creates a stronger overall protection against risks.
- 
+
+###Darknet Diaries. Episode 6: "The Beirut Bank Job." Darknet Diaries. Available at: (https://darknetdiaries.com/transcript/6/). Accessed: 12 October 2023.
