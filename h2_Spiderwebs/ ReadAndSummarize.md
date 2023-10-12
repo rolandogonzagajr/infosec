@@ -13,6 +13,8 @@ Segmenting application architecture to isolate different components and tenants.
 Sending security directives to clients to help protect sensitive data.   
 Automating the verification of configurations to ensure that they are always up-to-date and secure.     
 
+### Source: OWASP. (2021). OWASP Top Ten: Security Misconfiguration. Available at: https://owasp.org/Top10/A05_2021-Security_Misconfiguration/. Accessed: 12 October 2023.
+
 
 # A06:2021-Vulnerable and Outdated Components
 
@@ -27,6 +29,8 @@ Monitoring CVE and NVD for vulnerabilities in components.
 Obtaining components only from official, secure sources.  
 Monitoring for unmaintained components, and considering virtual patches.  
 Ensuring ongoing monitoring, triaging, and updates throughout the application's lifetime.  
+
+### OWASP. (2021). OWASP Top Ten: Vulnerable and Outdated Components. Available at: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/. Accessed: 12 October 2023
 
 
 # A03:2021-Injection
