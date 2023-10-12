@@ -30,7 +30,7 @@ Obtaining components only from official, secure sources.
 Monitoring for unmaintained components, and considering virtual patches.  
 Ensuring ongoing monitoring, triaging, and updates throughout the application's lifetime.  
 
-### OWASP. (2021). OWASP Top Ten: Vulnerable and Outdated Components. Available at: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/. Accessed: 12 October 2023
+### Source: OWASP. (2021). OWASP Top Ten: Vulnerable and Outdated Components. Available at: https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/. Accessed: 12 October 2023
 
 
 # A03:2021-Injection
@@ -46,4 +46,6 @@ Implement input validation at the application layer.
 Use regular expressions to escape special characters in user input.  
 Limit the amount of data that is returned from queries.  
 Use security testing tools to identify and fix injection vulnerabilities.  
+
+### Source: OWASP. (2021). OWASP Top Ten: Injection. Available at: https://owasp.org/Top10/A03_2021-Injection/. Accessed 12 October 2023.
 
